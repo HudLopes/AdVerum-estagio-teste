@@ -7,9 +7,13 @@ Em anexo está um arquivo estoque.csv que contém os dados do estoque de uma loj
 • estoque.csv (exemplo)
 
 O arquivo pode ser representado como:
+
 > Produto               Marca            Preço               Estoque
+
 > Pen Drive 32GB        Kingston         50.90               19
+
 > Chromecast 2          Google           269.00              12
+
 > Caixa de Som JBL      Logitech         99.00               5
 
 # **• Atividade**

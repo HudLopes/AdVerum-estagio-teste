@@ -12,7 +12,7 @@ Pen Drive 32GB        Kingston         50.90               19
 Chromecast 2          Google           269.00              12
 Caixa de Som JBL      Logitech         99.00               5
 
-**• Atividade**
+# **• Atividade**
 
 Faça uma aplicação em Java que leia um arquivo estoque.csv e em seguida:
 
@@ -26,13 +26,13 @@ Chromecast 2, R$ 269.00
 > Preço médio de produtos: 
 R$ 176.60 Quantidade de items em estoque: 40 
 
-**• Dicas**
+# **• Dicas**
 
 A primeira linha do arquivo é o cabeçalho contendo as colunas que existem, separadas por ; . Cada uma das linhas 
 seguintes representam um item em estoque, também separado por ; . As colunas serão sempre as mesmas e nesta 
 ordem: produto , marca , preço e estoque . Crie uma classe para representar cada linha (produto).
 
-**• Atividade Extra (opcional)**
+# **• Atividade Extra (opcional)**
 
 > Antes do fim da aplicação, criar e gravar em disco um arquivo estoque.html com a listagem dos produtos. O arquivo anexo 
 extra.html deve ser utilizado como modelo. Boa sorte!

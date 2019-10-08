@@ -1,6 +1,6 @@
 # AdVerum-estagio-teste
 
-**Exercício**
+# **Exercício**
 
 Em anexo está um arquivo estoque.csv que contém os dados do estoque de uma loja.
 

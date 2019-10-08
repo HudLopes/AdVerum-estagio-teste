@@ -16,7 +16,7 @@ Caixa de Som JBL      Logitech         99.00               5
 
 Faça uma aplicação em Java que leia um arquivo estoque.csv e em seguida:
 
-> 1. Imprima no console o nome e preço dos 2 produtos mais caros. 2. Calcule e imprima o preço médio de todos os produtos. 3. Calcule e imprima a quantidade em estoque de todos os produtos.
+> Imprima no console o nome e preço dos 2 produtos mais caros. 2. Calcule e imprima o preço médio de todos os produtos. 3. Calcule e imprima a quantidade em estoque de todos os produtos.
 Exemplo de Saída
 
 > Produtos mais caros: 
@@ -34,5 +34,5 @@ ordem: produto , marca , preço e estoque . Crie uma classe para representar cad
 
 **• Atividade Extra (opcional)**
 
-Antes do fim da aplicação, criar e gravar em disco um arquivo estoque.html com a listagem dos produtos. O arquivo anexo 
+> Antes do fim da aplicação, criar e gravar em disco um arquivo estoque.html com a listagem dos produtos. O arquivo anexo 
 extra.html deve ser utilizado como modelo. Boa sorte!
